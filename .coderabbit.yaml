@@ -22,7 +22,6 @@ reviews:
   path_filters:
     - "!build/**"
     - "!.gradle/**"
-    - "!gradle/**"
     - "!**/*.class"
     - "!out/**"
     - "!node_modules/**"
